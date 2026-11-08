@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Pixel-art night city with the name VAELO" />
+  <img src="https://raw.githubusercontent.com/VaeloHQ/.github/main/assets/banner.svg" width="100%" alt="Pixel-art night city with the name VAELO" />
 </p>
 
 <p align="center">
@@ -66,5 +66,5 @@ Vaelo is a small independent studio. We make **Roblox games**, **desktop tools**
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Pixel-art skyline reflected in water" />
+  <img src="https://raw.githubusercontent.com/VaeloHQ/.github/main/assets/footer.svg" width="100%" alt="Pixel-art skyline reflected in water" />
 </p>
